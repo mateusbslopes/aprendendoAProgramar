@@ -1,0 +1,1 @@
+<https://www.hostgator.com.br/blog/vantagens-de-aprender-a-programar-e-por-onde-comecar/ Quais são as vantagens de aprender a programar e por onde começar? acesso em 22 de setembro de 2019 às 23:40>
