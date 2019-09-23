@@ -4,4 +4,4 @@
 - Selecionar que aceita os termos de uso.
 - Fazer o download
 - Executar o que foi baixado
-- _verificar o wizard para adicionar aqui se for nescessário_
+- _verificar o wizard para adicionar aqui se for necessário_
